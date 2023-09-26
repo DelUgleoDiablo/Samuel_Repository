@@ -27,6 +27,14 @@ Welcome to my portfolio! Here, you can find information about my projects and ac
 
 [Check out the project](https://example.com/project-link)
 
+![Project Image](https://example.com/project-image.jpg)
+
+[Check out the project](https://example.com/project-link)
+
+![Project Image](https://example.com/project-image.jpg)
+
+[Check out the project](https://example.com/project-link)
+
 Description of the project goes here.
 
 ## Another Project
