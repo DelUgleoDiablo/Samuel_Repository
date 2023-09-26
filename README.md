@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Kusuma</h1>
-<h2>  A passionate and entushiast Game Developer and Gamer </h2>
+<h2 align = "center">  A passionate and entushiast Game Developer and Gamer </h2>
 
 
 I'm a college student with a passion of game design and game development. I’ve played various of games with a wide range of gameplay and experience, from the original 2D Side scroller, Top down, the Iconic Isometric, RPG, 3D, FPS and many other varieties of gameplay and experience provided from many developers. This leads me to the interest of making my own personal game and motivate me to the world of game design and game development.
