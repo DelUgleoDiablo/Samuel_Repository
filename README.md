@@ -2,7 +2,7 @@
 <h2>   </h2>
 
 
-<align="justify">I'm a college student with a passion of game design and game development. I’ve played various of games with a wide range of gameplay and experience, from the original 2D Side scroller, Top down, the Iconic Isometric, RPG, 3D, FPS and many other varieties of gameplay and experience provided from many developers. This leads me to the interest of making my own personal game and motivate me to the world of game design and game development.
+I'm a college student with a passion of game design and game development. I’ve played various of games with a wide range of gameplay and experience, from the original 2D Side scroller, Top down, the Iconic Isometric, RPG, 3D, FPS and many other varieties of gameplay and experience provided from many developers. This leads me to the interest of making my own personal game and motivate me to the world of game design and game development.
 <br/ >
  I've been learning about game development for 1 - 2 years, with experience programming language such as C and C# and utilizing game development software such as Unity to create a wide range of gameplay and user experience. I worked both alone and with a team and currently practicing in creating my own assets for my project using Photoshop, Sai 2, and Aseprite to enhance my own personal skills. I’ve also learned about level design, game balancing, engagement between player and player or player with NPC. 
 <br/>
