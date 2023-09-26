@@ -3,14 +3,13 @@
 
 
 I'm a college student with a passion of game design and game development. I’ve played various of games with a wide range of gameplay and experience, from the original 2D Side scroller, Top down, the Iconic Isometric, RPG, 3D, FPS and many other varieties of gameplay and experience provided from many developers. This leads me to the interest of making my own personal game and motivate me to the world of game design and game development.
-
+kamu anjing
  I've been learning about game development for 1 - 2 years, with experience programming language such as C and C# and utilizing game development software such as Unity to create a wide range of gameplay and user experience. I worked both alone and with a team and currently practicing in creating my own assets for my project using Photoshop, Sai 2, and Aseprite to enhance my own personal skills. I’ve also learned about level design, game balancing, engagement between player and player or player with NPC. 
-
+ 
 I'm passionate and very excited to learn more about game programming and with an achievement on creating my own personal game project and to hone my programming skills mostly in game development. With this portfolio, you can view my game projects and other projects regarding game and non-game development. 
 
 
 <p> - Sam </p>
-
 
 
 
@@ -26,21 +25,26 @@ I'm passionate and very excited to learn more about game programming and with an
 
 Here, you can find information about my projects and accomplishments containing game development and other non-game development projects..
 
-## Project Name
-
-![Project Image](https://example.com/project-image.jpg)
-
-[Check out the project](https://example.com/project-link)
-
-![Project Image](https://example.com/project-image.jpg)
-
-[Check out the project](https://example.com/project-link)
-
-![Project Image](https://example.com/project-image.jpg)
-
-[Check out the project](https://example.com/project-link)
-
-Description of the project goes here.
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1;">
+        <h2>Project Name 1</h2>
+        <a href="https://example.com/project-link-1">
+            <img src="https://example.com/project-image-1.jpg" alt="Project Image 1" width="200"/>
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <h2>Project Name 2</h2>
+        <a href="https://example.com/project-link-2">
+            <img src="https://example.com/project-image-2.jpg" alt="Project Image 2" width="200"/>
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <h2>Project Name 3</h2>
+        <a href="https://example.com/project-link-3">
+            <img src="https://example.com/project-image-3.jpg" alt="Project Image 3" width="200"/>
+        </a>
+    </div>
+</div>
 
 ## Another Project
 
